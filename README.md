@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <!-- <img src="C:/Users/skireev/Desktop/JS/vs/contributions.svg" style="max-width: 100%;"> -->
+![contributions](https://user-images.githubusercontent.com/97876403/215330004-aa8fb5bc-4604-486f-8a53-efb030128e4f.svg)
+
 
 
 <!--
