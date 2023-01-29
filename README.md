@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Svyat54&style=flat-square&color=blue" alt="" />
 </div> 
 <div id="header2" align="center">
-  <img src="https://media3.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif?cid=ecf05e472lo22ld7x1furkzzqumb3u3cj77xccik5e2o87fs&rid=giphy.gif&ct=s" width="150" height="300"/>
+  <img src="https://media3.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif?cid=ecf05e472lo22ld7x1furkzzqumb3u3cj77xccik5e2o87fs&rid=giphy.gif&ct=s" width="150"/>
 </div>
 
 <h1 align="center">
