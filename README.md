@@ -1,9 +1,14 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47dbwer99wfogirp0ratlaj8yxbe6mor9uqdbililx&rid=giphy.gif&ct=s" width="100"/>
 </div>
-<div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=Svyat54&style=flat-square&color=blue" alt=""/>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Svyat54&style=flat-square&color=blue" alt="" />
 </div>  
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ### Hi there 👋
 
