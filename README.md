@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47dbwer99wfogirp0ratlaj8yxbe6mor9uqdbililx&rid=giphy.gif&ct=s" width="100"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Svyat54&style=flat-square&color=blue" alt=""/>
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=Svyat54&style=flat-square&color=blue" alt=""/>
+</div>  
 
 ### Hi there 👋
 
