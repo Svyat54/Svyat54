@@ -5,12 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=Svyat54&style=flat-square&color=blue" alt="" />
 </div>  
 
-<h1>
+<h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-### Hi there 👋
 
 <!-- <img src="C:/Users/skireev/Desktop/JS/vs/contributions.svg" style="max-width: 100%;"> -->
 ![contributions](https://user-images.githubusercontent.com/97876403/215330004-aa8fb5bc-4604-486f-8a53-efb030128e4f.svg)
