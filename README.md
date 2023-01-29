@@ -22,6 +22,8 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Svyat54&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Svyat54&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- <img src="C:/Users/skireev/Desktop/JS/vs/contributions.svg" style="max-width: 100%;"> -->
 
 
