@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG" width="100"/>
+</div>
+
 ### Hi there 👋
 
 <!-- <img src="C:/Users/skireev/Desktop/JS/vs/contributions.svg" style="max-width: 100%;"> -->
