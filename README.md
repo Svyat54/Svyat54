@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img src="C:/Users/skireev/Desktop/JS/vs/contributions.svg" style="max-width: 100%;">
+<!-- <img src="C:/Users/skireev/Desktop/JS/vs/contributions.svg" style="max-width: 100%;"> -->
+<img src="/Desktop/JS/vs/contributions.svg" style="max-width: 100%;">
 
 <!--
 **Svyat54/Svyat54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
