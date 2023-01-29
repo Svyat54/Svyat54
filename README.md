@@ -14,6 +14,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Svyat54&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!-- <img src="C:/Users/skireev/Desktop/JS/vs/contributions.svg" style="max-width: 100%;"> -->
 
