@@ -8,8 +8,8 @@
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-</h1>\
 <div id="header" align="center">
    <img src"https://media3.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif?cid=ecf05e472lo22ld7x1furkzzqumb3u3cj77xccik5e2o87fs&rid=giphy.gif&ct=s" width="100"/>
 </div>
