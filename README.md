@@ -35,6 +35,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Svyat54&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<img src="https://camo.githubusercontent.com/cc05c1d05200ebcb6898c1001ce39d8de225fd3e4de911919ff3cf8d743a6c7b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4f4d414e53414b2673686f775f69636f6e733d74727565267468656d653d7261646963616c" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Svyat54&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Svyat54&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <img src="C:/Users/skireev/Desktop/JS/vs/contributions.svg" style="max-width: 100%;"> -->
